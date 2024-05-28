@@ -1,0 +1,6 @@
+Token counts for each document: [302, 376, 292, 262, 390, 170, 307, 222, 356, 165, 335, 335, 398, 313, 293]
+Total tokens in the entire collection: 4516
+Unique tokens in the entire collection: 1475
+Filtered token counts for each document after stop word removal: [170, 217, 183, 159, 237, 103, 201, 139, 216, 112, 186, 200, 222, 189, 200]
+Total filtered tokens in the entire collection after stop word removal: 2734
+Unique filtered tokens in the entire collection after stop word removal: 1331
